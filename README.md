@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Monogo DB,Machine learning,Artificial intelligencee**
 
-- 👨‍💻 All of my projects are available at [abhinavguddu.ml](abhinavguddu.ml)
+- 👨‍💻 All of my projects are available at [My portfolio](https://abhinavguddu.github.io/myportfolios/)
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRP,WORDPRESS**
 
