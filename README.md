@@ -2,6 +2,12 @@
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 <h1 align="center">A boy who is trying to make himself a Masterpiece!!!</h1>
 
+<h2><b>🌟 My Coding Profiles  </b></h2>
+
+  <a href="https://leetcode.com/amanr11314/"> <img src="https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06"> </a>
+  <a href="https://www.hackerrank.com/amanr11314"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white"> </a>
+  <a href="https://www.codechef.com/users/amanr11314"> <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=plastic&logo=CodeChef&logoColor=white"> </a>
+  <a href="https://codeforces.com/profile/Amanr11314"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=plastic&logo=Codeforces&logoColor=white"> </a>
 <img align="right" alt="Coding" width="250" src="https://thumbs.gfycat.com/ApprehensiveDrearyCaimanlizard-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavguddu&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavguddu" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavguddu" alt="abhinavguddu" /></a> </p>
